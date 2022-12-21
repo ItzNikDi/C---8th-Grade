@@ -1,8 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Type Char", "Data Type Char\Data Type Char.csproj", "{54AB544A-94F3-4B23-AD89-724ACB16EF4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Type String - Hello App", "Data Type String - Hello App\Data Type String - Hello App.csproj", "{4E896F14-0F8D-494E-BFB1-B63EC7438F30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Type String - Hello App", "Data Type String\Data Type String - Hello App\Data Type String - Hello App.csproj", "{4E896F14-0F8D-494E-BFB1-B63EC7438F30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +21,11 @@ Global
 		{4E896F14-0F8D-494E-BFB1-B63EC7438F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E896F14-0F8D-494E-BFB1-B63EC7438F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E896F14-0F8D-494E-BFB1-B63EC7438F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06CCD60D-BDB0-4687-9900-B1E61CEB9C5B}
 	EndGlobalSection
 EndGlobal
