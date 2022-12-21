@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Type Char", "Data Type
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Type String - Hello App", "Data Type String\Data Type String - Hello App\Data Type String - Hello App.csproj", "{4E896F14-0F8D-494E-BFB1-B63EC7438F30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Type String - Weather App", "Data Type String\Data Type String - Weather App\Data Type String - Weather App.csproj", "{379CC00A-6B1A-42A4-BAAF-72B59EB003C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{4E896F14-0F8D-494E-BFB1-B63EC7438F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E896F14-0F8D-494E-BFB1-B63EC7438F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E896F14-0F8D-494E-BFB1-B63EC7438F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379CC00A-6B1A-42A4-BAAF-72B59EB003C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{379CC00A-6B1A-42A4-BAAF-72B59EB003C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{379CC00A-6B1A-42A4-BAAF-72B59EB003C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{379CC00A-6B1A-42A4-BAAF-72B59EB003C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
